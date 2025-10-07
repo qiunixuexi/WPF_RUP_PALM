@@ -1,8 +1,10 @@
-This repository will contain the official implementation of:  
-**"Physics-Aware Learning for Detecting Robust Universal Perturbation Attacks in Wind Power Forecasting"**
+# Code Repository for "Physics-Aware Learning for Detecting Robust Universal Perturbation Attacks in Wind Power Forecasting"
 
-✅ Code will be released upon paper acceptance.  
-✅ Full implementation including RUP attack and PALM detection modules.  
-✅ Jupyter notebooks and dependency requirements will be included.
+This repository will contain the official implementation of our EAAI submission.
 
-Stay tuned! Last updated: Oct 2025.
+✅ The full source code will be publicly released by **October 13, 2025**.  
+✅ Includes implementation of the RUP attack and PALM detection frameworks.  
+✅ Jupyter notebooks, dependency requirements, and usage instructions will be provided.
+
+Thank you for your interest!  
+Last updated: October 8, 2025

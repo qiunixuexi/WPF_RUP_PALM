@@ -1,5 +1,5 @@
 # Physics-Aware Learning for Detecting Robust Universal Perturbation Attacks in Wind Power Forecasting
-
+The code repository will be completed before October 15th.
 This repository provides the official implementation of our paper **"Physics-Aware Learning for Detecting Robust Universal Perturbation Attacks in Wind Power Forecasting"**, submitted to *Engineering Applications of Artificial Intelligence (EAAI)*.
 
 The code includes:

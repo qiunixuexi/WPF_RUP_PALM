@@ -1,5 +1,9 @@
 # Physics-Aware Learning for Detecting Robust Universal Perturbation Attacks in Wind Power Forecasting
+<<<<<<< HEAD
 
+=======
+The code repository will be completed before October 15th.
+>>>>>>> f2664830b3a8bd5f53e44ab54a7699bd4b4429ef
 This repository provides the official implementation of our paper **"Physics-Aware Learning for Detecting Robust Universal Perturbation Attacks in Wind Power Forecasting"**, submitted to *Engineering Applications of Artificial Intelligence (EAAI)*.
 
 The code includes:
@@ -27,10 +31,15 @@ WPF_RUP_PALM/
 │   ├── 05_detection_performance_comparison.ipynb  # Compare PALM vs. three-sigma, boxplot detection
 │   └── 06_PALM_ablation_and_noise_robustness.ipynb # Ablation study and noise robustness test for PALM
 └── utils/
+<<<<<<< HEAD
 ├── init.py
 ├── data_loader.py        # Load data from public dataset
 ├── metrics.py            # Evaluation metrics (e.g., MAE)
 └── attack_utils.py       # Shared functions for perturbation generation
+=======
+    ├── data_loader.py                             # Load data from public dataset
+    └── metrics.py                                 # Evaluation metrics (e.g., MAE, RMSE, F1-score)
+>>>>>>> f2664830b3a8bd5f53e44ab54a7699bd4b4429ef
 
 
 > 🔁 **Recommended execution order**: Run notebooks in numerical order (01 → 06).

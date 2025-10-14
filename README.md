@@ -27,10 +27,8 @@ WPF_RUP_PALM/
 │   ├── 05_detection_performance_comparison.ipynb  # Compare PALM vs. three-sigma, boxplot detection
 │   └── 06_PALM_ablation_and_noise_robustness.ipynb # Ablation study and noise robustness test for PALM
 └── utils/
-├── init.py
-├── data_loader.py        # Load data from public dataset
-├── metrics.py            # Evaluation metrics (e.g., MAE)
-└── attack_utils.py       # Shared functions for perturbation generation
+    ├── data_loader.py                             # Load data from public dataset
+    └── metrics.py                                 # Evaluation metrics (e.g., MAE, RMSE, F1-score)
 
 
 > 🔁 **Recommended execution order**: Run notebooks in numerical order (01 → 06).

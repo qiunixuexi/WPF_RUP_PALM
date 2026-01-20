@@ -63,7 +63,7 @@ The experiments use the public open-source power dataset from Texas A&M Universi
 
 4. Launch Jupyter and run notebooks
 jupyter notebook
-Open and execute the notebooks in order (01 → 06) to reproduce the results in the paper.
+Open and execute the notebooks in order (01 → 05) to reproduce the results in the paper.
 
 🙏 Acknowledgements
 We thank the Texas A&M University team for providing the open-source power dataset.
